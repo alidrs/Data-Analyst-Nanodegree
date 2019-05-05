@@ -1,2 +1,2 @@
-# test_repo
+# Data Analyst Nanodegree (DAND)
 # another test repo
